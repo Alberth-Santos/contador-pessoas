@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 
-import 'myApp.dart';
+import 'app.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const App());
 }
