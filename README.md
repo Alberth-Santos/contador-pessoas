@@ -1,16 +1,9 @@
-# contador_de_pessoas
+# Contador de Pessoas
 
-A new Flutter project.
+### Esse Aplicativo foi desenvolvido utilizando `flutter` com a linguagem de programação `Dart`
 
-## Getting Started
+![Print](./assets/images/print_1.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Print2](./assets/images/print_2.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
